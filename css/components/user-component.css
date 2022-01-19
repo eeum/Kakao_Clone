@@ -49,3 +49,14 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__subandicon {
+  display: flex;
+  align-items: center;
+}
+.user-component__subandicon i {
+  margin-left: 8px;
+  position: relative;
+  top: 5px;
+  color: coral;
+}
